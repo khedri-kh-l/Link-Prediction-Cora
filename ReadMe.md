@@ -31,7 +31,7 @@ It is a framework for learning node embeddings from static subgraphs using a gra
 
 
 <p align="center">
-<a href="https://www.bing.com"><img src="Images/Ness.png" width="500" height="800" alt="Bing logo"></a>
+<a href="https://www.bing.com"><img src="Images/Ness.png" width="800" height="500" alt="Bing logo"></a>
 </p>   
 
 ### Model
@@ -65,7 +65,7 @@ The structure of the WalkPool model consists of four main steps:
 
 
 <p align="center">
-<a href="https://www.bing.com"><img src="Images/wp-illustration.png" width="800" height="800" alt="Bing logo"></a>
+<a href="https://www.bing.com"><img src="Images/wp-illustration.png" width="800" height="500" alt="Bing logo"></a>
 </p>     
 
 ## Evaluation
